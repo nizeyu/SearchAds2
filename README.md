@@ -1,7 +1,7 @@
 # README #
 # Project Name: Search Ads
 ## Author: Zeyu Ni
-----------
+
 ## Overview:
 A mini Search Ads System.
 
