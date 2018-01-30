@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/json-20160807.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/javalib/spymemcached-2.12.1.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/grpc-context-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/grpc-core-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/grpc-netty-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/grpc-protobuf-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/grpc-protobuf-lite-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/grpc-stub-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/instrumentation-api-0.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-buffer-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-codec-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-codec-http-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-codec-http2-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-codec-socks-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-common-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-handler-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-handler-proxy-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-resolver-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/netty-transport-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/protobuf-java-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/nizeyu/workspace/tool/ProtobufLib/protobuf-java-util-3.3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
